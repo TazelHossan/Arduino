@@ -57,7 +57,7 @@ Proteus 8
   <img src="https://github.com/TazelHossan/Arduino/blob/main/Images/output1.jpg" height="300" />
 </p>
 <p align="center">
-  <img src="https://github.com/TazelHossan/Arduino/blob/main/Images/output1.jpg" height="300" />
+  <img src="https://github.com/TazelHossan/Arduino/blob/main/Images/output2.jpg" height="300" />
 </p>
 
 <h2>See the experiments</h2>
