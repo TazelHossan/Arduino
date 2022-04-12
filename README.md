@@ -52,3 +52,5 @@ Proteus 8
 <p align="center">
   <img src="https://github.com/TazelHossan/Arduino/blob/main/Images/7.png" height="300" />
 </p>
+<h2>See the experiments</h2>
+<a href="https://github.com/TazelHossan/Arduino/blob/main/lab%20experiments.pdf">Go</a>
